@@ -7,7 +7,11 @@ End-to-end Retail Sales Analysis project using Excel and Power BI, covering data
 An end-to-end **Retail Sales Analysis** project using **Microsoft Excel and Power BI**.
 
 The project covers data cleaning, data validation, statistical analysis, dashboard creation, and interactive Power BI visualization.
+## 📁 Project Files
 
+The complete project files, datasets, documentation, screenshots, and related resources are available here:
+
+📁 [**Access Project Files – Google Drive**](https://drive.google.com/drive/folders/1cPGSaQTSkCB3_YgX_D9zcbhsR7J8XuC6?usp=drive_link)
 ## 🎯 Objectives
 
 The project analyzes retail data to understand:
@@ -86,13 +90,7 @@ DAX Measures
         ↓
 Interactive Power BI Dashboard
 
-📁 Project Resources
 
-## 📁 Project Files
-
-The complete project files, datasets, documentation, screenshots, and related resources are available here:
-
-📁 [**Access Project Files – Google Drive**](https://drive.google.com/drive/folders/1cPGSaQTSkCB3_YgX_D9zcbhsR7J8XuC6?usp=drive_link)
 📄 Documentation
 
 The project documentation contains:
