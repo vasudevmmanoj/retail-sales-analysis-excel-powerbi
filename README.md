@@ -86,11 +86,11 @@ DAX Measures
         ↓
 Interactive Power BI Dashboard
 
-## 📁 Project Resources
+📁 Project Resources
 
 All project files, datasets, documentation, screenshots, and related resources are available here:
 
-👉 **[View Project Files on Google Drive](https://drive.google.com/drive/folders/1cPGSaQTSkCB3_YgX_D9zcbhsR7J8XuC6?usp=drive_link)**
+👉 [View Project Files on Google Drive](https://drive.google.com/drive/folders/1cPGSaQTSkCB3_YgX_D9zcbhsR7J8XuC6?usp=drive_link)
 📄 Documentation
 
 The project documentation contains:
